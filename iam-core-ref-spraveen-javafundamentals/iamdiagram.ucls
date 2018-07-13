@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="fr.epita.iamcorerefprojectpraveen.configuration.Configuration" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/configuration/Configuration.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="361" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="fr.epita.iamcorerefprojectpraveen.datamodel.Identity" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/datamodel/Identity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="128" y="114"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fr.epita.iamcorerefprojectpraveen.exceptions.CreateIdentityException" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/exceptions/CreateIdentityException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="589" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="fr.epita.iamcorerefprojectpraveen.exceptions.DeleteIdentityException" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/exceptions/DeleteIdentityException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="826" y="60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="fr.epita.iamcorerefprojectpraveen.exceptions.SearchIdentityException" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/exceptions/SearchIdentityException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1034" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="fr.epita.iamcorerefprojectpraveen.exceptions.UpdateIdentityException" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/exceptions/UpdateIdentityException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1241" y="53"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="fr.epita.iamcorerefprojectpraveen.launcher.Launcherclass" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/launcher/Launcherclass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="295" width="188" x="490" y="134"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="fr.epita.iamcorerefprojectpraveen.services.Authorization" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/services/Authorization.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="106" y="399"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="9" language="java" name="fr.epita.iamcorerefprojectpraveen.services.ConfKeyfile" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/services/ConfKeyfile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="202" width="189" x="943" y="199"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="10" language="java" name="fr.epita.iamcorerefprojectpraveen.services.Verification" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/services/Verification.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="193" x="297" y="358"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="fr.epita.iamcorerefprojectpraveen.services.IdentityDAO" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/services/IdentityDAO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="790" y="481"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="fr.epita.iamcorerefprojectpraveen.services.JDBCIdentityDAO" 
+    project="iam-core-ref-spraveen-javafundamentals" 
+    file="/iam-core-ref-spraveen-javafundamentals/src/fr/epita/iamcorerefprojectpraveen/services/JDBCIdentityDAO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="796" y="250"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="13">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
